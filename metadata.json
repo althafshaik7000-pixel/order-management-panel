@@ -1,0 +1,6 @@
+{
+  "name": "ORDER SEARCH PANEL",
+  "description": "A clean, professional order search and management panel built with React and Vite for customer order lookups.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
